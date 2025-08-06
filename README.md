@@ -26,4 +26,4 @@
 Below is a Preview of **Landing Page - The Pista Choice**, Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
-<img src="./Images/Screenshot.png" alt="Landing Page - The Pista Choice Preview" width="100%" />
+<img src="./images/Screenshot.png" alt="Landing Page - The Pista Choice Preview" width="100%" />
